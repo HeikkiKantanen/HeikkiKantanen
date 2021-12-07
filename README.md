@@ -20,7 +20,7 @@ Hi my name is Heikki Kantanen. Thank you for taking the time to view my GitHub p
   
   <br>
   
-  🔗  <a target="_blank" href="linkedin.com/in/heikki-kantanen-0b91721a0"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img> </a>
+  🔗  <a target="_blank" href="https://www.linkedin.com/in/heikki-kantanen-0b91721a0"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img> </a>
   
   <br>
   
