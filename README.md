@@ -12,7 +12,7 @@ Hi my name is Heikki Kantanen. Thank you for taking the time to view my GitHub p
 
 - 🎓 I’m currently learning full stack web development in Business College Helsinki
 
-- 📫 Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+- 📫 Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <br>
 
