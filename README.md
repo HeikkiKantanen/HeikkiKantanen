@@ -21,7 +21,6 @@ Hi my name is Heikki Kantanen. Thank you for taking the time to view my GitHub p
   <a target="_blank" href="mailto:hessu.kantanen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
   
   <br>
-  <br>
   
   🔗 <br>
      <br>
