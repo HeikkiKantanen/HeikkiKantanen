@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hello there 👋
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=HeikkiKantanen.HeikkiKantanen)
+[![Github](https://img.shields.io/github/followers/HeikkiKantanen?label=Follow&style=social)](https://github.com/HeikkiKantanen)
+
+Hi my name is Heikki Kantanen. Thank you for taking the time to view my GitHub profile 🙂
+
+### About me
 
 - 🎓 I’m currently learning full stack web development in Business College Helsinki
 
-- 📫 How to reach me: 
+- 📫 Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
   ✉️        hessu.kantanen at gmail.com 
   
