@@ -4,9 +4,9 @@
 
 - 📫 How to reach me: 
 
-  ✉️    hessu.kantanen at gmail.com 
+  ✉️        hessu.kantanen at gmail.com 
   
-  🔗    linkedin.com/in/heikki-kantanen-0b91721a0
+  🔗       linkedin.com/in/heikki-kantanen-0b91721a0
 
 <!--
 **HeikkiKantanen/HeikkiKantanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
