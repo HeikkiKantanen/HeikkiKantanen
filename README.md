@@ -3,7 +3,11 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=HeikkiKantanen.HeikkiKantanen)
 [![Github](https://img.shields.io/github/followers/HeikkiKantanen?label=Follow&style=social)](https://github.com/HeikkiKantanen)
 
+<br>
+
 Hi my name is Heikki Kantanen. Thank you for taking the time to view my GitHub profile 🙂
+
+<br>
 
 ### About me
 
@@ -11,11 +15,16 @@ Hi my name is Heikki Kantanen. Thank you for taking the time to view my GitHub p
 
 - 📫 Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
+<br>
+
   ✉️        hessu.kantanen at gmail.com 
+  
+  <br>
   
   🔗       linkedin.com/in/heikki-kantanen-0b91721a0
   
-
+  <br>
+  
 ### 🛠 &nbsp;My Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -26,7 +35,11 @@ Hi my name is Heikki Kantanen. Thank you for taking the time to view my GitHub p
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 📊  &nbsp;GitHub Stats algolia
+<br>
+
+### 📊  &nbsp;GitHub Stats
+
+<br>
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HeikkiKantanen&layout=compact&langs_count=8&theme=algolia"/>
 
