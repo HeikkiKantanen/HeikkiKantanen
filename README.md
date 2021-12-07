@@ -1,12 +1,19 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning full stack web development in Business College Helsinki
+
+- 📫 How to reach me: 
+
+  ✉️ hessu.kantanen at gmail.com 
+  
+  🔗 linkedin.com/in/heikki-kantanen-0b91721a0
+
 <!--
 **HeikkiKantanen/HeikkiKantanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
