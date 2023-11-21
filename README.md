@@ -10,7 +10,7 @@ Hi my name is Heikki Kantanen. Thank you for taking the time to view my GitHub p
 
 ### About me
 
-- 🎓 I’m currently learning full stack web development in Business College Helsinki
+- 🎓 I'm a full stack web developer graduate of Business College Helsinki.
 
 - 📫 Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
