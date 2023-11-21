@@ -1,6 +1,6 @@
 ### Hello there  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=HeikkiKantanen.HeikkiKantanen)
+
 [![Github](https://img.shields.io/github/followers/HeikkiKantanen?label=Follow&style=social)](https://github.com/HeikkiKantanen)
 
 
